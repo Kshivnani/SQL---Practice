@@ -11,4 +11,3 @@ New File Added
 + Add column in existing Column
 + Modify/alter Column
 + Alter Table-drop Column
-
